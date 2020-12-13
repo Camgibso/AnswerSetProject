@@ -6,7 +6,7 @@ Initial Description: Schedule Generator
     - Each employee must have one flight off after attending a flight
     - Each plane must have the exact number of crew required
     - Given the attendants, languages spoken, the employees required, and the languages 
-    required, build a schedule that follows these rules
+      required, build a schedule that follows these rules
 
 
 The attached powerpoint demontstrates me going through the program and explaining the results 
